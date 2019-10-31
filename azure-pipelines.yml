@@ -24,5 +24,4 @@ jobs:
         ./container-structure-test-linux-amd64 --help
     displayName: 'What does curl write to stderr'
     failOnStderr: true
-    
-    
+
